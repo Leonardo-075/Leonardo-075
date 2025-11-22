@@ -1,5 +1,3 @@
-![Banner](banner-leonardo-dark.png) <!-- Reemplaza con la ruta real del archivo en tu repo -->
-
 # 👋 Hola, soy Leonardo
 
 🎯 **Analista de Datos en formación | Finanzas & Comercio Internacional | SQL • Python • Power BI • Tableau**
@@ -14,13 +12,12 @@ Actualmente desarrollo proyectos aplicados en telecomunicaciones, e‑commerce y
 
 ## 🛠️ Tecnologías y Herramientas
 
-![SQL](https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=postgresql&logoColor=58a6ff)
-![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=yellow)
-![Power BI](https://img.shields.io/badge/PowerBI-000000?style=for-the-badge&logo=power-bi&logoColor=F2C811)
-![Tableau](https://img.shields.io/badge/Tableau-000000?style=for-the-badge&logo=tableau&logoColor=E97627)
-![Excel](https://img.shields.io/badge/Excel-000000?style=for-the-badge&logo=microsoft-excel&logoColor=217346)
-![R](https://img.shields.io/badge/R-000000?style=for-the-badge&logo=r&logoColor=276DC3)
-![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ---
 
@@ -40,8 +37,8 @@ Combino habilidades técnicas con visión financiera para:
 ---
 
 ## 🌐 Conecta conmigo
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/edison-cardozo)
-[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Leonardo-075)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/edison-cardozo)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Leonardo-075)
 
 ---
 
